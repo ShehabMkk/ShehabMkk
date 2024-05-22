@@ -75,6 +75,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/ShehabMkk/ShehabMkk/tree/main/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ShehabMkk/ShehabMkk/output/snake.svg" alt="Snake animation" />
 
 ###
